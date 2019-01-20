@@ -17,10 +17,7 @@ public class ExcelStuff {
 
   public static void main(String[] args) throws Throwable {
 	  
-	  
-	  //someone else's code
-	  
-    
+
 //    printAllSheetData();
 //    
 //    String[][] result = getAllSheetDate("MOCK_DATA.xlsx","data");
