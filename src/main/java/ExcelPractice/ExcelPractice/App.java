@@ -6,6 +6,7 @@ package ExcelPractice.ExcelPractice;
  */
 
 //degisiklik yaptim..
+//localden degisiklik yaptim
 
 public class App 
 {
