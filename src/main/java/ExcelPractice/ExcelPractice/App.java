@@ -12,4 +12,5 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
-//localden degisiklik
+
+//remotedan degisiklik
