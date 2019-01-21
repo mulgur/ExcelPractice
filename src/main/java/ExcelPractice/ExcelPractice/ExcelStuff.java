@@ -16,9 +16,7 @@ public class ExcelStuff {
 	static String filePath ="MOCK_DATA.xlsx";
 
   public static void main(String[] args) throws Throwable {
-	  
-	//remotedan degisiklik yapildi  	  
-
+	
 //    printAllSheetData();
 //    
 //    String[][] result = getAllSheetDate("MOCK_DATA.xlsx","data");
